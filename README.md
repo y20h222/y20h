@@ -1,43 +1,82 @@
-# y20h
-Cybersecurity Graduate | SOC Analyst | Blue Team Enthusiast Passionate about threat detection, incident response, and detection engineering. Building security projects with YARA, SIEM, Python, and Windows event analysis while continuously improving offensive and defensive security skills.
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Siv Ram Shastri, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+# Hi, I'm Yazan 👋
+
+### 🛡️ Cybersecurity Student | SOC Analyst | Blue Team Enthusiast
+
+Passionate about **Security Operations (SOC)**, **Threat Detection**, **Incident Response**, and **Detection Engineering**. I enjoy building practical cybersecurity projects, developing detection rules with **YARA**, and improving my skills in defensive security through hands-on labs and real-world scenarios.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" alt="Cybersecurity">
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Cybersecurity Student at King Saud University
+- 🛡️ SOC Analyst Trainee with hands-on SOC experience
+- 🔍 Interested in Threat Detection & Detection Engineering
+- 🚨 Passionate about Incident Response and Blue Team Operations
+- 🐍 Building security tools using Python & YARA
+- 📚 Continuously learning Windows Security, SIEM, Networking, and Digital Forensics
+- 🎯 Goal: Become a Detection Engineer / SOC Analyst
+
+---
+
+## 🛠️ Technologies & Tools
+
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    </p>
+  <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode,linux,windows" />
+</p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+### Cybersecurity
+- 🛡️ Security Operations Center (SOC)
+- 🔍 Threat Detection
+- 🚨 Incident Response
+- 📜 YARA Rule Development
+- 🪟 Windows Event Logs
+- 🌐 Network Security
+- 📊 SIEM Fundamentals
+- 🔬 Digital Forensics
+- 📝 Log Analysis
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+---
 
-<h2 align="left">:heart: Let's get connected:</h2>
+## 🚀 Featured Project
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+### MailWatch Guard
+A phishing detection browser extension that analyzes emails using **YARA** rules to detect phishing, suspicious, and malicious messages.
+
+**Features**
+- Email scanning with YARA
+- URL inspection
+- Attachment detection
+- Suspicious content analysis
+
+---
+
+## 📜 Certifications
+
+- eJPT Prep Course
+- Cybersecurity Incident Response
+- Introduction to Cybersecurity
+- Python 101
+- Digital Forensics
+- YUWAIQ Security Platform Labs
+
+---
+
+## 📈 Currently Learning
+
+- Detection Engineering
+- Advanced SOC Operations
+- Threat Hunting
+- Windows Security
+- SIEM & Log Analysis
+- Python Automation
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: *((https://www.linkedin.com/in/yazan-al-kuzaim-b003b9384?utm_source=share_via&utm_content=profile&utm_medium=member_ios))*
+- 📧 Email: *(yhani6466@gmail.com)*
