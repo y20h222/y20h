@@ -51,7 +51,7 @@ A phishing detection browser extension that analyzes emails using **YARA** rules
 - URL inspection
 - Attachment detection
 - Suspicious content analysis
-- Link (https://preview--mail-watch-guard.lovable.app/)
+- Link (https://mail-watch-guard.lovable.app)
 ---
 
 ## 📜 Certifications
