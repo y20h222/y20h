@@ -1,6 +1,6 @@
 # Hi, I'm Yazan 👋
 
-### 🛡️ Cybersecurity Student | SOC Analyst | Blue Team Enthusiast
+### 🛡️ Cybersecurity  | SOC Analyst | Blue Team Enthusiast
 
 Passionate about **Security Operations (SOC)**, **Threat Detection**, **Incident Response**, and **Detection Engineering**. I enjoy building practical cybersecurity projects, developing detection rules with **YARA**, and improving my skills in defensive security through hands-on labs and real-world scenarios.
 
